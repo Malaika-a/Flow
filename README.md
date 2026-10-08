@@ -20,9 +20,11 @@
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="screenshots/flow_list.jpeg" alt="Flow task list" width="270">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="screenshots/flow_checked.jpeg" alt="Flow checked tasks" width="270">
+  <img src="Screenshots/Flow%20task%20list.jpeg" alt="Flow task list" width="270">
+
+  
+<img src="Screenshots/Flow%20checked%20tasks.jpeg" alt="Flow checked tasks" width="270">
+ 
 </p>
 
 <p align="center"><img src="assets/divider.svg" width="80%" alt=""></p>
